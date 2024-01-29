@@ -1,2 +1,2 @@
 # ChatBot_App
-This is a group project for a basic ChatBot in html, css and JavaScript
+I used basic html, css and JavaScript to create the chatbot still in working progress.
